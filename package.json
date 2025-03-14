@@ -1,0 +1,17 @@
+{
+  "name": "category-path-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getCategoryPath.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "type": "commonjs"
+}
